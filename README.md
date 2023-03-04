@@ -1,6 +1,6 @@
 # AI-Planet-Test
 
-#Info
+## Info
 `Model was built by fine tuning T5 Transformer on Tesla T4 GPU, which took 2+ hrs for 4 epochs`
 
 ## How the run the application?
